@@ -1,0 +1,21 @@
+1
+AMANDA.TUKA
+12345
+2
+AMANDINHA
+amanda123
+3
+AMANDA
+123
+4
+ROBERTA.TUKAMOTO
+12345
+5
+& C:/USERS/AMAND/.LOCAL/BIN/PYTHON3.14.EXE C:/USERS/AMAND/ONEDRIVE/DOCUMENTOS/PROJETO-FEITV/FEITV.PY
+& C:/Users/amand/.local/bin/python3.14.exe c:/Users/amand/OneDrive/Documentos/Projeto-Feitv/feitv.py
+6
+1
+& C:/Users/amand/.local/bin/python3.14.exe c:/Users/amand/OneDrive/Documentos/Projeto-Feitv/feitv.py
+7
+AMANDA.TUKAMOTO
+12345
